@@ -9,17 +9,18 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=aagarwal1012.aagarwal1012)
 
-<!--
-**aagarwal1012/aagarwal1012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Talking about Personal Stuffs!
 
-Here are some ideas to get you started:
+<img src='https://media.tenor.com/images/ccae3320ab522c1d09e041f1f7ffea74/tenor.gif' align='right'>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on a few flutter projects.
+- 👯 I’m looking to collaborate on my flutter packages -- [Animated Text Kit](https://github.com/aagarwal1012/Animated-Text-Kit), [Liquid Pull to Referesh](https://github.com/aagarwal1012/Liquid-Pull-To-Refresh) and [IntroViews Flutter](https://github.com/aagarwal1012/IntroViews-Flutter) 🤘
+- 🤔 I’m looking for help with anything in which you have expertise.
+- 💬 Ask me about anything, but I may be slow to respond.
+- 📫 How to reach me: aagarwal9782@gmail.com
+- 😄 Pronouns: he/his/him
+- ⚡ Fun fact: Carrots🥕🥕 just might turn you orange.
+
+</br>
+
+![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aagarwal1012&hide=[%22issues%22,%22contribs%22]&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
