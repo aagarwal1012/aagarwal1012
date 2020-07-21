@@ -14,7 +14,7 @@
 </a>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=aagarwal1012.aagarwal1012)
-[![GitHub followers](https://img.shields.io/github/followers/aagarwal1012.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/aagarwal1012?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/aagarwal1012.svg?style=social&label=Follow)](https://github.com/aagarwal1012?tab=followers)
 
 #### Talking about Personal Stuffs!
 
